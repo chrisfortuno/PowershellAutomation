@@ -16,8 +16,13 @@ This tutorial outlines the implementation of scripts via Powershell in order to 
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>High-Level Deployment Steps</h2>
 
 - Creating and deploying a Virutal Machine to set up our work environment
 - Downloading several applications via the internet
 - Writing our scrpit for opening/closing applications, then importing them into powershell
+
+<h2>Configuration Steps</h2>
+
+  ![vm setup](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/1bee74fa-1e03-45fe-9b1b-b3471de6a535)
+
