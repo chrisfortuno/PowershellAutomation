@@ -52,6 +52,23 @@ Next, we will create a new script, this time for automatically closing the appli
 
 ![Close applications](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/dfee72a5-ecfc-486b-a206-2662d925818c)
 
+After that, we will go to the the folder containing the Powershell scripts. Here we will go to the 'Open applications' file, right click and select 'Run with Powershell'
+
+![run with powershell](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/8c13383a-d423-4582-a714-b49739410b67)
+
+If done correctly, the script should open VLC, OBS, and Teams all at once
+
+![applications open](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/479601dd-06bb-4cca-b21c-336cde87fc80)
+
+Now, once our hypothetical office worker is done for the day and ready to close down their PC, they can now use the 'Close application' script in the same way as we just did previously. Go to the folder with the powershell scripts, right click 'Close applications' and click 'run with powershell'. Once that is done, all applications open on the PC will close simultaniously. 
+
+![apps closed](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/e47d686b-8ee4-47b2-a842-a878585baea7)
+
+This simple tutorial demonstrates how Powershell can be used to make simple tasks faster and more streamlined for users who may struggle with locating and logging into their daily applications 
+
+
+
+
 
 
 
