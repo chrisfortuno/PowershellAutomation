@@ -18,4 +18,6 @@ This tutorial outlines the implementation of scripts via Powershell in order to 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- 
+- Creating and deploying a Virutal Machine to set up our work environment
+- Downloading several applications via the internet
+- Writing our scrpit for opening/closing applications, then importing them into powershell
