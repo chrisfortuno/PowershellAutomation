@@ -38,5 +38,28 @@ Next, once logged in, use the the default internet browser to search for, downlo
 
 ![vlc](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/8ed3bb82-6aad-4fa2-b260-c795e3bd7207)
 
+Afterwards, we will go to the 'Start' button on the bottom left of our PC and type in "Windows Powershell ISE" and open the application. Here, we will write our script which will automate opening these applications. To explain the scripting language, "invoke" is the verb, which tells the script what to do, and "item" is the noun, which tells the computer what it is actually invoking. What comes after is the file path, which tells the script where to look for the application (.exe file) that we want, at which point it will simply open the application as if we were double-clicking it as usual.
+
+![powershell open](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/c33319ae-9fdf-4375-9570-fff7369d4aad)
+
+![powershell script](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/6a9c33f6-4e1e-4d31-a2d0-f5733de8cdc0)
+
+After writing the script as shown, we will go to 'File' and save as 'open applications' in a new folder created on the desktop. This will make the script easily accessible for the user
+
+![file save](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/44de2366-d505-4d46-a82a-9a28485471d9)
+
+Next, we will create a new script, this time for automatically closing the applications. So we will do the same process as before, write the script as shown in the photo and save as 'Close applications' in the desktop folder
+
+![Close applications](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/dfee72a5-ecfc-486b-a206-2662d925818c)
+
+
+
+
+
+
+
+
+
+
 
 
