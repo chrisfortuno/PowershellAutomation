@@ -31,7 +31,7 @@ Paste the public IP address of the Vitual Machine into the search bar and log in
 
 ![remote](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/e2583a61-0778-4633-b30a-42cfc0888f3e)
 
-Next, once logged in, use the the default internet browser to search for, download and install a few applications which will be the basis for our scripts. For this demonstration, I've decided to download OBS, Microsoft Teams, and VLC for this demonstration, as these may be some common applications used in a day-to-day office setting, however most any application could be used for this script.
+Next, once logged in, use the the default internet browser to search for, download and install a few applications which will be the basis for our scripts. For this demonstration, I've decided to download OBS, Microsoft Teams, and VLC, as these may be some common applications used in a day-to-day office setting, however most any application could be used for this script.
 
 ![obs](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/78be3b9e-d807-4479-bab8-743ef737aaec)
 
