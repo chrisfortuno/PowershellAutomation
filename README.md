@@ -28,6 +28,7 @@ First, we will use Microsoft Azure to set up a Virtual Machine for us to use as 
 ![vm setup](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/1bee74fa-1e03-45fe-9b1b-b3471de6a535)
 
 Paste the public IP address of the Vitual Machine into the search bar and log into the VM with your username and password.
+
 ![remote](https://github.com/chrisfortuno/PowershellAutomation/assets/149267076/e2583a61-0778-4633-b30a-42cfc0888f3e)
 
 Next, once logged in, use the the default internet browser to search for, download and install a few applications which will be the basis for our scripts. For this demonstration, I've decided to download OBS, Microsoft Teams, and VLC for this demonstration, as these may be some common applications used in a day-to-day office setting, however most any application could be used for this script.
